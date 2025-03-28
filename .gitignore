@@ -1,0 +1,11 @@
+/target/
+/allure-results/
+/test-output/
+/.allure/
+/debug.log/
+/ExtentReports.html
+.settings
+.classpath
+.project
+/.idea/
+/bin/
